@@ -1,0 +1,20 @@
+[
+  { "id": 1, "title": "Cień wiatru", "author": "Carlos Ruiz Zafón", "genre": "Powieść", "year": 2001, "rating": 4.6, "available": true },
+  { "id": 2, "title": "Solaris", "author": "Stanisław Lem", "genre": "Science Fiction", "year": 1961, "rating": 4.5, "available": true },
+  { "id": 3, "title": "Kroniki Archiwum Burz, tom pierwszy: droga królów, z dodatkowymi mapami i przedmową autora do wydania rozszerzonego", "author": "Brandon Sanderson", "genre": "Fantastyka", "year": 2010, "rating": 4.8, "available": false },
+  { "id": 4, "title": "Ziarno prawdy", "author": "Zygmunt Miłoszewski", "genre": "Kryminał", "year": 2011, "rating": 4.2, "available": true },
+  { "id": 5, "title": "Reguły życia", "author": "Richard Templar", "genre": "Poradnik", "year": 2003, "rating": 3.9, "available": true },
+  { "id": 6, "title": "Wiersze zebrane", "author": "Wisława Szymborska", "genre": "Poezja", "year": 1993, "rating": 4.7, "available": true },
+  { "id": 7, "title": "Reportaż z Polski", "author": "Ryszard Kapuściński", "genre": "Reportaż", "year": 1978, "rating": 4.3, "available": false },
+  { "id": 8, "title": "Autobiografia niepokornego umysłu, czyli historia kariery naukowej opowiedziana z perspektywy trzydziestu lat pracy w laboratorium", "author": "Maria Nowak", "genre": "Biografia", "year": 2016, "rating": 4.0, "available": true },
+  { "id": 9, "title": "Lód", "author": "Jacek Dukaj", "genre": "Science Fiction", "year": 2007, "rating": 4.6, "available": true },
+  { "id": 10, "title": "Gambit turecki", "author": "Borys Akunin", "genre": "Kryminał", "year": 1998, "rating": 4.1, "available": true },
+  { "id": 11, "title": "Atlas chmur", "author": "David Mitchell", "genre": "Powieść", "year": 2004, "rating": 4.4, "available": false },
+  { "id": 12, "title": "Krótka historia prawie wszystkiego", "author": "Bill Bryson", "genre": "Poradnik", "year": 2003, "rating": 4.5, "available": true },
+  { "id": 13, "title": "Wiedźmin: Ostatnie życzenie", "author": "Andrzej Sapkowski", "genre": "Fantastyka", "year": 1993, "rating": 4.7, "available": true },
+  { "id": 14, "title": "Fundacja", "author": "Isaac Asimov", "genre": "Science Fiction", "year": 1951, "rating": 4.5, "available": true },
+  { "id": 15, "title": "Zbrodnia i kara", "author": "Fiodor Dostojewski", "genre": "Powieść", "year": 1866, "rating": 4.8, "available": false },
+  { "id": 16, "title": "Sto lat samotności", "author": "Gabriel García Márquez", "genre": "Powieść", "year": 1967, "rating": 4.7, "available": true },
+  { "id": 17, "title": "Rok 1984", "author": "George Orwell", "genre": "Science Fiction", "year": 1949, "rating": 4.9, "available": true },
+  { "id": 18, "title": "Krótka historia niemal wszystkiego, wydanie ilustrowane z dodatkowymi fotografiami i indeksem rzeczowym", "author": "Neil Armstrong", "genre": "Biografia", "year": 2019, "rating": 3.8, "available": true }
+]
