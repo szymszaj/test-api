@@ -1,0 +1,20 @@
+[
+  { "id": 1, "name": "Koncert noworoczny Filharmonii", "city": "Warszawa", "date": "2026-01-10", "category": "Muzyka klasyczna", "price": 120, "ticketsAvailable": true },
+  { "id": 2, "name": "Festiwal Jazzu nad Wisłą", "city": "Warszawa", "date": "2026-06-15", "category": "Jazz", "price": 180, "ticketsAvailable": true },
+  { "id": 3, "name": "Ogólnopolski Przegląd Teatrów Ulicznych i Alternatywnych z udziałem grup z siedmiu krajów Europy Środkowej", "city": "Kraków", "date": "2026-07-02", "category": "Teatr", "price": 60, "ticketsAvailable": false },
+  { "id": 4, "name": "Stand-up: Wieczór z humorem", "city": "Kraków", "date": "2026-03-21", "category": "Kabaret", "price": 90, "ticketsAvailable": true },
+  { "id": 5, "name": "Targi Książki", "city": "Wrocław", "date": "2026-05-09", "category": "Targi", "price": 25, "ticketsAvailable": true },
+  { "id": 6, "name": "Rockowa Noc Legend", "city": "Gdańsk", "date": "2026-08-14", "category": "Rock", "price": 220, "ticketsAvailable": true },
+  { "id": 7, "name": "Wystawa Sztuki Współczesnej", "city": "Wrocław", "date": "2026-04-18", "category": "Wystawa", "price": 40, "ticketsAvailable": false },
+  { "id": 8, "name": "Festiwal Kina Niezależnego i Dokumentu z retrospektywą twórczości reżyserów debiutujących w ostatniej dekadzie", "city": "Łódź", "date": "2026-09-05", "category": "Film", "price": 55, "ticketsAvailable": true },
+  { "id": 9, "name": "Elektroniczna Noc Klubowa", "city": "Poznań", "date": "2026-02-14", "category": "Elektronika", "price": 150, "ticketsAvailable": true },
+  { "id": 10, "name": "Musical: Nad Wodą", "city": "Warszawa", "date": "2026-11-01", "category": "Musical", "price": 200, "ticketsAvailable": true },
+  { "id": 11, "name": "Konferencja Technologiczna DevCon", "city": "Kraków", "date": "2026-10-12", "category": "Konferencja", "price": 350, "ticketsAvailable": false },
+  { "id": 12, "name": "Piknik Rodzinny w Parku", "city": "Poznań", "date": "2026-06-01", "category": "Rodzinne", "price": 0, "ticketsAvailable": true },
+  { "id": 13, "name": "Opera: Straszny Dwór", "city": "Warszawa", "date": "2026-12-03", "category": "Opera", "price": 280, "ticketsAvailable": true },
+  { "id": 14, "name": "Festiwal Food Trucków", "city": "Gdańsk", "date": "2026-07-19", "category": "Kulinaria", "price": 15, "ticketsAvailable": true },
+  { "id": 15, "name": "Bieg Charytatywny 10 km", "city": "Łódź", "date": "2026-05-30", "category": "Sport", "price": 30, "ticketsAvailable": false },
+  { "id": 16, "name": "Koncert Symfoniczny: Muzyka Filmowa", "city": "Wrocław", "date": "2026-03-08", "category": "Muzyka klasyczna", "price": 140, "ticketsAvailable": true },
+  { "id": 17, "name": "Targi Motoryzacyjne", "city": "Poznań", "date": "2026-09-20", "category": "Targi", "price": 35, "ticketsAvailable": true },
+  { "id": 18, "name": "Improwizowany Teatr Komedii", "city": "Kraków", "date": "2026-04-25", "category": "Teatr", "price": 70, "ticketsAvailable": true }
+]
