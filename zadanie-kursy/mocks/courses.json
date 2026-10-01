@@ -1,0 +1,20 @@
+[
+  { "id": 1, "title": "JavaScript od podstaw", "instructor": "Anna Kowalska", "category": "Programowanie", "level": "Początkujący", "price": 149, "rating": 4.6, "durationHours": 18 },
+  { "id": 2, "title": "React i wzorce projektowe w dużych aplikacjach frontendowych, z naciskiem na architekturę i skalowalność kodu", "instructor": "Piotr Nowak", "category": "Programowanie", "level": "Zaawansowany", "price": 299, "rating": 4.8, "durationHours": 32 },
+  { "id": 3, "title": "Podstawy grafiki w Figmie", "instructor": "Maria Wiśniewska", "category": "Design", "level": "Początkujący", "price": 0, "rating": 4.2, "durationHours": 6 },
+  { "id": 4, "title": "SEO i marketing treści", "instructor": "Tomasz Zieliński", "category": "Marketing", "level": "Średni", "price": 199, "rating": 4.0, "durationHours": 12 },
+  { "id": 5, "title": "Analiza danych w Pythonie", "instructor": "Katarzyna Lewandowska", "category": "Programowanie", "level": "Średni", "price": 249, "rating": 4.7, "durationHours": 24 },
+  { "id": 6, "title": "Negocjacje handlowe", "instructor": "Marek Dąbrowski", "category": "Biznes", "level": "Średni", "price": 179, "rating": 3.9, "durationHours": 8 },
+  { "id": 7, "title": "Angielski biznesowy dla początkujących i średnio zaawansowanych, z modułem konwersacyjnym i słownictwem branżowym", "instructor": "Emily Clark", "category": "Języki", "level": "Początkujący", "price": 129, "rating": 4.3, "durationHours": 20 },
+  { "id": 8, "title": "Produkcja muzyki elektronicznej", "instructor": "Jakub Szymański", "category": "Muzyka", "level": "Początkujący", "price": 159, "rating": 4.1, "durationHours": 15 },
+  { "id": 9, "title": "TypeScript w praktyce", "instructor": "Piotr Nowak", "category": "Programowanie", "level": "Średni", "price": 219, "rating": 4.5, "durationHours": 16 },
+  { "id": 10, "title": "Projektowanie UX dla aplikacji mobilnych", "instructor": "Maria Wiśniewska", "category": "Design", "level": "Średni", "price": 229, "rating": 4.4, "durationHours": 14 },
+  { "id": 11, "title": "Social media dla małych firm", "instructor": "Tomasz Zieliński", "category": "Marketing", "level": "Początkujący", "price": 99, "rating": 3.8, "durationHours": 9 },
+  { "id": 12, "title": "Zarządzanie projektami w metodykach Agile", "instructor": "Marek Dąbrowski", "category": "Biznes", "level": "Zaawansowany", "price": 279, "rating": 4.6, "durationHours": 20 },
+  { "id": 13, "title": "Hiszpański od zera", "instructor": "Carlos Fernández", "category": "Języki", "level": "Początkujący", "price": 119, "rating": 4.2, "durationHours": 22 },
+  { "id": 14, "title": "Gra na gitarze dla początkujących", "instructor": "Jakub Szymański", "category": "Muzyka", "level": "Początkujący", "price": 0, "rating": 4.0, "durationHours": 10 },
+  { "id": 15, "title": "Architektura mikroserwisów", "instructor": "Katarzyna Lewandowska", "category": "Programowanie", "level": "Zaawansowany", "price": 349, "rating": 4.9, "durationHours": 28 },
+  { "id": 16, "title": "Podstawy fotografii produktowej", "instructor": "Maria Wiśniewska", "category": "Design", "level": "Początkujący", "price": 139, "rating": 4.1, "durationHours": 11 },
+  { "id": 17, "title": "Finanse osobiste i inwestowanie", "instructor": "Marek Dąbrowski", "category": "Biznes", "level": "Początkujący", "price": 0, "rating": 3.7, "durationHours": 7 },
+  { "id": 18, "title": "Niemiecki dla pracujących w logistyce i transporcie międzynarodowym, z modułem dokumentów i rozmów telefonicznych", "instructor": "Emily Clark", "category": "Języki", "level": "Średni", "price": 169, "rating": 4.3, "durationHours": 18 }
+]
